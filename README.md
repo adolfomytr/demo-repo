@@ -1,3 +1,3 @@
 # DEMO 
 
-Demo repo for crash course
+Demo repo for crash course!
